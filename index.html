@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jouletree</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/interactjs/dist/interact.min.js"></script>
+</head>
+<body>
+    <div id="app">
+        <h1>JOULETREE</h1>
+        <button id="add-word-node">Add Word Node</button>
+        <button id="add-todo-node">Add To-Do Node</button>
+        <button id="add-image-node">Add Image Node</button>
+        <button id="save">Save</button>
+        <button id="load">Load</button>
+        <input type="file" id="load-input" accept=".json" onchange="loadMindMap(event)" style="display: none;">
+        <canvas id="connectionCanvas"></canvas>
+        <div id="node-container"></div>
+        <input type="file" id="image-input" style="display: none;" />
+        <div id="quote-box">
+            <div id="quote"></div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+    <script src="renderer.js"></script>
+    <script src="https://unpkg.com/interactjs/dist/interact.min.js"></script>
+</body>
+</html>

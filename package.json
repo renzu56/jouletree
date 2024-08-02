@@ -1,0 +1,14 @@
+{
+  "name": "jouletree",
+  "version": "1.0.0",
+  "description": "A sample Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . Jouletree --platform=win32 --arch=x64 --out=dist/ --icon=C:\\kzz\\logo.ico"
+  },
+  "devDependencies": {
+    "electron": "^25.0.0",
+    "electron-packager": "^16.0.0"
+  }
+}

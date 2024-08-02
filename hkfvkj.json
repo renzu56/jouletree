@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "type": "word",
+      "position": {
+        "left": "235.62px",
+        "top": "300.959px"
+      },
+      "content": "",
+      "done": null
+    },
+    {
+      "type": "word",
+      "position": {
+        "left": "943.51px",
+        "top": "225.08px"
+      },
+      "content": "",
+      "done": null
+    },
+    {
+      "type": "word",
+      "position": {
+        "left": "169.443px",
+        "top": "281.803px"
+      },
+      "content": "",
+      "done": null
+    },
+    {
+      "type": "todo",
+      "position": {
+        "left": "1110.21px",
+        "top": "293.615px"
+      },
+      "content": "fortniute",
+      "done": false
+    },
+    {
+      "type": "todo",
+      "position": {
+        "left": "147.966px",
+        "top": "825.404px"
+      },
+      "content": "",
+      "done": false
+    },
+    {
+      "type": "todo",
+      "position": {
+        "left": "722.16px",
+        "top": "311.33px"
+      },
+      "content": "fortnite",
+      "done": false
+    }
+  ],
+  "connections": [
+    {
+      "startIndex": 1,
+      "endIndex": 5
+    },
+    {
+      "startIndex": 1,
+      "endIndex": 3
+    }
+  ]
+}

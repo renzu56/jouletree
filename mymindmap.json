@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "type": "word",
+      "position": {
+        "left": "118.381px",
+        "top": "64.5926px"
+      },
+      "content": "",
+      "done": null
+    },
+    {
+      "type": "word",
+      "position": {
+        "left": "731.933px",
+        "top": "73.1794px"
+      },
+      "content": "",
+      "done": null
+    },
+    {
+      "type": "todo",
+      "position": {
+        "left": "460.376px",
+        "top": "154.463px"
+      },
+      "content": "",
+      "done": false
+    },
+    {
+      "type": "todo",
+      "position": {
+        "left": "156.099px",
+        "top": "389.342px"
+      },
+      "content": "",
+      "done": false
+    },
+    {
+      "type": "todo",
+      "position": {
+        "left": "263.067px",
+        "top": "289.911px"
+      },
+      "content": "",
+      "done": false
+    }
+  ],
+  "connections": []
+}
